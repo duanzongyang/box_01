@@ -1,3 +1,2 @@
 # box_01
-study python and others code
-hello github, i am here to stude some codes, i want to be a better man.
+I'm glad to share my projects here. My projects are mainly divided into scientific research projects and interested open source projects.
